@@ -2,12 +2,15 @@
   "scripts": {
     "start": "http-server ./src/ -p 3000"
   },
-  "name": "typingmind",
-  "version": "1.0.0",
+  "name": "rj-business-solutions-ai-chat",
+  "version": "2.0.0",
   "main": "index.js",
-  "repository": "git@github.com:TypingMind/typingmind.git",
-  "author": "Tony Dinh <support@typingmind.com>",
-  "license": "N/A",
+  "repository": "git@github.com:rjbizsolution23-wq/typingmind.git",
+  "author": "Rick Jefferson - AI Systems Architect <rick@rjbizsolution.com>",
+  "license": "© 2025 RJ Business Solutions",
+  "description": "RJ Business Solutions AI Chat Platform - Enterprise-grade AI chat interface by Rick Jefferson, AI Systems Architect. Production-ready, intelligent solutions that scale.",
+  "homepage": "https://rjbusiness.io",
+  "keywords": ["ai", "chat", "business", "enterprise", "chatgpt", "claude", "gemini", "rick-jefferson", "ai-systems-architect", "production-ready"],
   "devDependencies": {
     "http-server": "^14.1.1"
   }

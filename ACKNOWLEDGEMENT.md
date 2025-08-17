@@ -1,5 +1,10 @@
 # Acknowledgement
 
+**RJ Business Solutions AI Chat Platform**  
+*Built by Rick Jefferson - AI Systems Architect & Agent Framework Engineer*
+
+This enterprise-grade AI chat platform leverages the following open-source technologies and libraries. RJ Business Solutions acknowledges and appreciates the contributions of these projects to the development of professional AI solutions.
+
 
 | Name                        | Installed version | License type | Link                                                                         |
 | :-------------------------- | :---------------- | :----------- | :--------------------------------------------------------------------------- |
