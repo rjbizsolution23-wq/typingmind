@@ -87,5 +87,16 @@
   "theme_color": "#003D91",
   "background_color": "#003D91",
   "display": "standalone",
-  "description": "Enterprise-grade AI chat interface powered by RJ Business Solutions"
+  "description": "Professional AI chat platform by Rick Jefferson - Enterprise-grade LLM frontend supporting multiple AI models. Production-ready, intelligent solutions that scale.",
+  "categories": ["business", "productivity", "utilities"],
+  "orientation": "portrait-primary",
+  "shortcuts": [
+    {
+      "name": "New Chat",
+      "short_name": "New Chat",
+      "description": "Start a new AI conversation",
+      "url": "/?action=new-chat",
+      "icons": [{ "src": "/android-icon-96x96.png", "sizes": "96x96" }]
+    }
+  ]
 }
