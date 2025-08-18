@@ -31,12 +31,50 @@ pids
 # Yarn Integrity file
 .yarn-integrity
 
-# Environment variables
+# CRITICAL: API KEYS AND SENSITIVE DATA - NEVER COMMIT
 .env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+.env.*
+!.env.example
+*.env
+env.js
+env.json
+config.js
+config.json
+
+# API Keys - All formats
+*api*key*
+*apikey*
+*secret*
+*token*
+*password*
+*credential*
+*auth*
+
+# Specific API key patterns
+sk-*
+gsk_*
+pplx-*
+AIzaSy*
+hf_*
+*.key
+*Key_*
+AAAAAAA*
+EAA*
+
+# Cloud service configurations
+cloudflare.json
+aws-config.json
+gcp-config.json
+azure-config.json
+
+# Social media tokens
+twitter-config.json
+facebook-config.json
+social-tokens.json
+
+# Database and service URLs with credentials
+database-url.txt
+connection-strings.txt
 
 # IDE files
 .vscode/
@@ -62,3 +100,20 @@ temp/
 # Backup files
 *.bak
 *.backup
+
+# Security and development files
+.security/
+.development/
+local-config/
+
+# Any file containing 'private', 'secret', 'key' in filename
+*private*
+*secret*
+*key*
+
+# Prevent accidental commits of common sensitive file names
+credentials.txt
+secrets.txt
+api-keys.txt
+tokens.txt
+private-keys.txt

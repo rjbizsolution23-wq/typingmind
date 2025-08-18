@@ -90,7 +90,7 @@ Unlike consumer-grade chat interfaces, RJ Business Solutions AI Chat Platform is
 git clone https://github.com/rjbizsolution23-wq/typingmind.git
 
 # Navigate to project directory
-cd typingmind
+cd rj-ai-chat-platform
 
 # Install dependencies
 npm install
