@@ -87,7 +87,7 @@ Unlike consumer-grade chat interfaces, RJ Business Solutions AI Chat Platform is
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/rjbizsolution23-wq/typingmind.git
+git clone https://github.com/rjbizsolution23-wq/rj-ai-chat-platform.git
 
 # Navigate to project directory
 cd rj-ai-chat-platform

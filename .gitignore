@@ -52,6 +52,7 @@ config.json
 
 # Specific API key patterns
 sk-*
+sk-ant-*
 gsk_*
 pplx-*
 AIzaSy*
@@ -60,6 +61,24 @@ hf_*
 *Key_*
 AAAAAAA*
 EAA*
+
+# Specific API key format patterns from problem statement
+sk-ant-admin01-*
+sk-ant-api03-*
+AIzaSyDPUGlr-*
+gsk_HZEpBKbHHWv9LqIs*
+pplx-5aY3osjZjhF*
+ee2eb927cd8944a1d1efdffd77745198*
+Sk_255c3a98005d7e28304fc03c97909171*
+.Key_0d754462452676b2f8eb90786f28a7ad*
+sk-tfxUutiDB6Hq8uaDjq1J*
+U2eL7hOGFQFfUp25wODBOshs1kcE-*
+58250b56ae5b45d940cd6e4b64314c01*
+c8784fa28c038ecffdf259b99dead456*
+AC4727a3fd6a8ce71a9b05d56fcc4b5b6c*
+d87d4e0dc9891ddd3441dbd3193d8757*
+b196a50378e98e3c4d516f3cf2c6f2d3*
+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*
 
 # Cloud service configurations
 cloudflare.json
