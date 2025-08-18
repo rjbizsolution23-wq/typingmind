@@ -249,3 +249,10 @@ code, pre, .font-mono {
 .dark .text-rj-body {
   color: rgba(255, 255, 255, 0.9);
 }
+
+/* Professional branding emphasis for dynamically replaced content */
+.rj-brand-override {
+  color: var(--rj-primary-blue) !important;
+  font-weight: 600 !important;
+  font-family: 'DM Serif Display', serif !important;
+}
